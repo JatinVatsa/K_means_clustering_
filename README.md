@@ -24,3 +24,17 @@ To measure the distance between data points and centroid, we can use  method suc
 
 ![image](https://user-images.githubusercontent.com/85051683/125206968-7c6f0b00-e2a7-11eb-9f8d-8e2cfcdc9ef6.png)
 
+
+
+The output image is clearly showing the five different clusters with different colors. The clusters are formed between two parameters of the dataset; Annual income of customer and Spending. 
+
+
+Cluster1 shows the customers with average salary and average spending so we can categorize these customers as middle family.
+
+Cluster2 shows the customer has a high income but low spending, so we can categorize them as careful.
+
+Cluster3 shows the low income and also low spending so they can be categorized as sensible.
+
+Cluster4 shows the customers with low income with very high spending so they can be categorized as careless.
+
+Cluster5 shows the customers with high income and high spending so they can be categorized as target, and these customers can be the most profitable customers for the mall owner.
